@@ -43,6 +43,7 @@
 
              SongPlayer.currentSong = song;
          };
+
          /**
          * @function playSong
          * @desc plays currentBuzzObject
